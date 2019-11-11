@@ -33,3 +33,11 @@
 /yarn-error.log
 yarn-debug.log*
 .yarn-integrity
+
+# Ignore SimpleCov coverage report
+/coverage
+
+# Ignore .env environment variables definitions
+.env
+
+
